@@ -1,18 +1,15 @@
 # drones-iot-visual-recognition
 This tutorial shows how you can use drone aerial images, Watson Studio, and Watson Visual Recognition to survey wildfire-damaged neighborhoods and identify burned and intact homes.
 
+## Call for Code
+Call for Code unites developers and data scientists around the world to create sustainable, scalable, and life-saving open source technologies via the power of Cloud, AI, blockchain and IoT technologies. Check out the link to learn more: https://developer.ibm.com/code-and-response/
+
 ## Learning objectives
 After completing this tutorial, you will be able to:
 1. Create a Visual Recognition model in Watson Studio running in IBM Cloud
 2. Capture images from a drone and zip them into a class
 3. Train a model to identify objects in the images
 4. Score and count the identified objects
-
-## Prerequisites
-You can complete this tutorial using an IBM Cloud Lite account.
-Create an IBM Cloud account.
-Log in to IBM Cloud.
-
 
 ## Prerequisites
 
